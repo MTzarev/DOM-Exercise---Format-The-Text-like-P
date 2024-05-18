@@ -12,6 +12,6 @@ function solve() {
       }
     }
     let newPara = newArr.join(`. `);
-    output.innerHTML += `<p>${newPara}<\p>`
+    output.innerHTML += `<p>${newPara}<\p>`;
   }
 }
